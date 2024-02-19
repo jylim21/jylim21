@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I turn raw datasets into impactful insights through cutting-edge analytics.
+
+My skills allow me to not only visualize and tell compelling data stories, but also build advanced machine learning models for enhanced predictions. I breathe life into numbers - letting the data speak for itself and guide smarter decisions.
+
+Currently I leverage **SQL, Python, Power BI** and more as a Claims Data Analyst optimizing complex workflows. But I'm always expanding my analytics toolkit through passion projects!
 
 - 🔭 I’m currently working on **Computer Vision** (Face Detection).
 - 🌱 I’m currently learning **Selenium** & **Natural Language Processing**.
@@ -7,8 +11,5 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/juenyuh-lim" target="_blank" rel="noopener noreferrer">**Linkedin**</a> or <a href="mailto:limjuenyuh@yahoo.com" target="_blank" rel="noopener noreferrer">**Email**</a>
 - ⚡ Fun fact: I'm a cat person
 
-### Check out my work below:
-
-1. Prediction of Laptop Prices for Tech Shop Startup
    
 
