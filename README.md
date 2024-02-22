@@ -2,7 +2,7 @@
 
 My skills allow me to not only visualize and tell compelling data stories, but also build advanced machine learning models for enhanced predictions. I breathe life into numbers - letting the data speak for itself and guide smarter decisions.
 
-Currently I leverage **SQL, Python, Power BI** and more as a Claims Data Analyst optimizing complex workflows. But I'm always expanding my analytics toolkit through passion projects!
+Currently I leverage **SQL, Python, Power BI** and more as a Reinsurance Data Analyst in optimizing complex workflows, but I'm always expanding my analytics toolkit through self-driven projects focusing on E-commerce, Finance, and Meteorology.
 
 - 🔭 I’m currently working on **Computer Vision** (Face Detection).
 - 🌱 I’m currently learning **Selenium** & **Natural Language Processing**.
